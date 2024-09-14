@@ -1,7 +1,7 @@
 ## Hi there 👋
-##🔭 I’m currently working on a 2d grapling hook bennet foddy type game.
-##🌱 I’m learning c# and trying to work out how to use github
-##😄 Pronouns: He/Him
+## 🔭 I’m currently working on a 2d grapling hook bennet foddy type game.
+## 🌱 I’m learning c# and trying to work out how to use github
+## 😄 Pronouns: He/Him
 
 <!--
 **The-scope28/The-scope28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
